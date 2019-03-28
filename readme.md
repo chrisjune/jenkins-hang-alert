@@ -6,7 +6,7 @@
 pip install -r requirements
 ```
 
-# Run
+# How To Run
 ```
 python notifier.py
 ```
