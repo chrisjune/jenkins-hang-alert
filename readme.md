@@ -2,7 +2,11 @@
 * for check hanging jenkins job
 
 # Requirements
-* pip install -r requirements
+```
+pip install -r requirements
+```
 
 # Run
-* 
+```
+python notifier.py
+```
