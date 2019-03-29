@@ -1,5 +1,6 @@
-# Jenkins Slack Notifier
+# Jenkins Hang Alert
 * for check hanging jenkins job
+* send slack alert
 
 # Requirements
 * install python library requirements
